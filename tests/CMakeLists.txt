@@ -1,0 +1,10 @@
+file(GLOB_RECURSE TESTS "test*.c")
+
+message("Tests: ")
+foreach(TEST ${TESTS}) 
+  string(REGEX REPLACE ".*/([^/]+).c" "\\1" TEST_NAME ${TEST})
+  message("\t* ${TEST_NAME}")
+  add_executable(${TEST_NAME} ${TEST})
+  add_test(${TEST_NAME} ${TEST_NAME})
+  target_link_libraries(${TEST_NAME} PUBLIC cborg)
+endforeach(TEST)

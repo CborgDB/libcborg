@@ -1,0 +1,5 @@
+# LIBCBORG
+add_library(cborg-h INTERFACE)
+target_include_directories(cborg-h INTERFACE ${CMAKE_CURRENT_SOURCE_DIR})
+install(DIRECTORY cborg DESTINATION ${CMAKE_INSTALL_INCLUDEDIR})
+install(FILES cborg.h DESTINATION ${CMAKE_INSTALL_INCLUDEDIR})
