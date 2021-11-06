@@ -15,6 +15,6 @@ To share ideas and chat with the people who contribute or use the tools of the [
 
 ## Developers
 
-- Join our [Discord](https://discord.gg/hmgnCd7NQW)
+- Join our [Discord](https://discord.gg/WDxhUD92bf)
 - Read [CODING-STYLE.md](CODING-STYLE.md)
 - Follow [Github Flow](https://guides.github.com/introduction/flow)
