@@ -11,7 +11,7 @@ You are welcome to contribute to this project in several ways:
 
 ## Join the community 
 
-To share ideas and chat with the people who contribute or use the tools of the [CborgDB](https://github.com/cborgdb) organization, join us on [discord](https://discord.gg/hmgnCd7NQW).
+To share ideas and chat with the people who contribute or use the tools of the [CborgDB](https://github.com/cborgdb) organization, join us on [discord](https://discord.gg/WDxhUD92bf).
 
 ## Developers
 
